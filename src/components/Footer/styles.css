@@ -1,0 +1,30 @@
+.footer {
+    background-color: #0d0d0d;
+    color: #919191;
+    padding: 0 13em 2em;
+}
+
+.rede-sociais {    
+    display: flex;
+    width: 20%;
+    margin-bottom: 1em;
+    justify-content: space-between;    
+}
+
+.blabla {
+    display: flex;
+}
+
+.blabla div {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+
+.blabla div span {
+    padding-bottom: 1em;
+}
+
+.copy {
+    margin-top: 1em;
+}
